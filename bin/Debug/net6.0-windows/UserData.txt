@@ -1,0 +1,15 @@
+1,10000,admin,admin,John,Doe,talha.sydney@gmail.com,0412456876
+2,10001,emp,emp,Steve,Rodgers,talha.sydney@gmail.com,0465454646
+3,10002,cus,cus,Marry,Julia,marry.julia@gmail.com,0466534646
+4,10003,pack,pack,Ferr,Julio,ferr.juilio@gmail.com,0464434646
+2,10004,jane,jane,Jane,Smith,jane.smith@email.com,0432156789
+3,10005,david,david,David,Williams,david@email.com,0498765432
+4,10006,packer1,packer1,Emma,Johnson,emma@email.com,0456789123
+1,10007,supervisor,supervisor,Mark,Anderson,mark@email.com,0487654321
+2,10008,alice,alice,Alice,Johnson,alice@email.com,0411122334
+3,10009,sarah,sarah,Sarah,Miller,sarah@email.com,0422345678
+4,10010,packer2,packer2,James,Brown,james@email.com,0478956231
+3,10011,alex,alex,Alex,Parker,alex@email.com,0487654321
+2,10012,employee3,employee3,Emily,Turner,emily@email.com,0456789123
+1,10013,supervisor2,supervisor2,Michael,Roberts,michael@email.com,0498765432
+3,10014,admingre,admingrgrger,Talha,Ahmed,talha.sydney@gmail.com,0564054232

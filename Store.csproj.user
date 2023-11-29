@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UserForms\CustomerSubForms\OrderFinalization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\EmailForms\RegisterNotificaiton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\LoginAndRegister\EntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\LoginAndRegister\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\LoginAndRegister\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\CustomerSubForms\Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\PackagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\SharedForms\PersonalDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\CustomerSubForms\StoreCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\StaffSubForms\ItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\StaffSubForms\OrdersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\StaffSubForms\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="UserForms\AdminForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

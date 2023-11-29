@@ -1,0 +1,28 @@
+1,10001,Intel Core i9-10900K,649.99,High-Performance CPU
+1,10002,AMD Ryzen 9 5900X,549.99,Top-tier Gaming CPU
+2,10003,NVIDIA GeForce GTX 1660 Super,299.99,Mid-range Gaming GPU
+2,10004,AMD Radeon RX 6600 XT,399.99,Great Value GPU
+3,10005,Corsair Vengeance LPX 16GB RAM,89.99,DDR4 Memory Kit
+3,10006,G.Skill Ripjaws V 32GB RAM,149.99,High-capacity RAM
+4,10007,ASUS ROG Strix B550-F Motherboard,179.99,Gaming Motherboard
+4,10008,MSI MAG B450 Tomahawk,99.99,Budget-friendly Motherboard
+5,10009,Samsung 970 EVO 1TB NVMe SSD,179.99,High-speed Storage
+5,10010,Seagate Barracuda 2TB HDD,69.99,Large Capacity HDD
+6,10011,Corsair CX750M 750W PSU,79.99,Modular Power Supply
+6,10012,EVGA 450 BT 450W PSU,39.99,Entry-level PSU
+7,10013,Noctua NH-D15 CPU Cooler,89.99,High-Performance Cooler
+7,10014,Cooler Master Hyper 212 RGB,49.99,Popular Air Cooler
+8,10015,Fractal Design Meshify C Case,99.99,ATX Mid Tower Case
+8,10016,NZXT H510i Compact Case,89.99,Sleek Gaming Case
+9,10017,ASUS ROG Swift PG279QZ,549.99,27" Gaming Monitor
+9,10018,Dell Ultrasharp U2719D,349.99,27" Professional Monitor
+10,10019,Logitech G Pro X Mechanical Keyboard,129.99,Tenkeyless Gaming Keyboard
+10,10020,Corsair K95 RGB Platinum XT,169.99,RGB Mechanical Keyboard
+11,10021,Razer DeathAdder Elite,49.99,Gaming Mouse with RGB
+11,10022,Logitech MX Master 3,99.99,Wireless Productivity Mouse
+12,10023,Bose QuietComfort 35 II,249.99,Noise-Canceling Headphones
+12,10024,Audio-Technica ATH-M50x,149.99,Studio Monitor Headphones
+13,10025,Ubiquiti UniFi Dream Machine,299.99,All-in-One Networking Solution
+13,10026,Netgear Nighthawk AX12 Router,299.99,High-Performance Router
+14,10027,Anker 7-Port USB Hub,29.99,USB Hub with Power Delivery
+14,10028,SanDisk 128GB USB Flash Drive,19.99,Portable Data Storage
